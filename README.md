@@ -2,6 +2,8 @@
 
 This is a simple click counter application built with React. It allows users to click a button and keep track of the number of clicks.
 
+**Watch the Application in Action:** [![Watch the Application](https://img.youtube.com/vi/OlGJ5lAn1CI/maxresdefault.jpg)](https://youtu.be/OlGJ5lAn1CI)
+
 ## Installation
 
 Follow these steps to install and run the click counter application:
@@ -10,6 +12,17 @@ Follow these steps to install and run the click counter application:
 
 2. Clone or download this repository to your computer.
 
+3. In the project directory, run the following command to install the necessary dependencies:
+
+```bash
+npm install
+```
+
+4. After the installation is complete, run the following command to start the application:
+
+```bash
+npm start
+```
 
 This will launch the application in your web browser at `http://localhost:3000`. You can click the "Click Me" button to increment the counter. The page will automatically update to display the current count.
 
